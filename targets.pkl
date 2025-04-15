@@ -1,0 +1,2 @@
+# This is a binary file that will be created by the program to store targets
+# No need to pre-create this file
